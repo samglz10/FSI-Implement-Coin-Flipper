@@ -1,10 +1,16 @@
 // TODO: Declare any global variables we need
 
-let headsRoll = 0
-let tailsRoll = 0
+const headsRoll = 0
+const tailsRoll = 1
 
-
-
+//Number of Heads
+numHeads
+//Percentage Heads
+headPerc
+//Number of Tails
+numTails
+//Percentage Tails
+perTails
 
 document.addEventListener('DOMContentLoaded', function () {
     // This is just a sanity check to make sure your JavaScript script is getting loaded
